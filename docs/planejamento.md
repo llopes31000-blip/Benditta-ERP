@@ -202,3 +202,350 @@ Cada produto deve possuir:
 - Campanhas patrocinadas
 - Programa de fidelidade
 - Expansão de atendimento
+
+# 8. Plano Operacional da Cozinha
+
+## Objetivo
+
+Criar um processo organizado, rápido e padronizado para garantir que todos os pedidos da Benditta Pastelaria tenham a mesma qualidade, sabor e apresentação, reduzindo desperdícios e aumentando a capacidade de atendimento.
+
+---
+
+# 8.1 Fluxo Operacional do Pedido
+
+O processo deve seguir uma sequência padrão:
+
+## Etapa 1 - Recebimento do Pedido
+
+Responsável:
+Atendimento / Sistema iFood
+
+Ações:
+
+- Conferir itens solicitados pelo cliente
+- Confirmar adicionais
+- Verificar observações do pedido
+- Imprimir ou separar pedido para produção
+
+Tempo estimado:
+Até 2 minutos
+
+---
+
+## Etapa 2 - Separação dos Ingredientes
+
+Responsável:
+Produção
+
+Ações:
+
+- Retirar massa correspondente
+- Separar recheios necessários
+- Conferir quantidade dos produtos
+- Organizar bancada de produção
+
+Tempo estimado:
+Até 3 minutos
+
+---
+
+## Etapa 3 - Montagem do Pastel
+
+Padrão:
+
+Cada pastel deve seguir ficha técnica definida.
+
+Exemplo:
+
+### Pastel Tradicional
+
+- Massa padrão
+- 120g de recheio
+- Quantidade definida de queijo/adicionais
+- Fechamento correto da massa
+
+
+### Pastéis Especiais
+
+Devem possuir:
+
+- Maior quantidade de recheio
+- Ingredientes diferenciados
+- Apresentação premium
+
+
+Tempo estimado:
+
+3 a 5 minutos por pedido
+
+---
+
+## Etapa 4 - Fritura
+
+Procedimento:
+
+- Conferir temperatura do óleo
+- Fritar até atingir padrão visual
+- Escorrer corretamente
+- Evitar excesso de óleo na embalagem
+
+
+Controle:
+
+Temperatura ideal:
+170°C a 180°C
+
+
+Cuidados:
+
+- Troca periódica do óleo
+- Filtragem diária
+- Retirada de resíduos
+
+
+Tempo médio:
+
+3 a 4 minutos
+
+---
+
+## Etapa 5 - Embalagem
+
+Responsável:
+Expedição
+
+Checklist:
+
+☐ Conferir pedido
+
+☐ Conferir quantidade
+
+☐ Adicionar molhos/complementos
+
+☐ Fechar embalagem corretamente
+
+☐ Colocar etiqueta ou identificação
+
+
+Objetivo:
+
+Evitar erros de entrega e reclamações.
+
+---
+
+## Etapa 6 - Entrega
+
+Processo:
+
+- Pedido liberado para entregador
+- Conferência final
+- Atualização no sistema
+
+
+Meta:
+
+Pedido pronto em até:
+
+25 minutos após confirmação
+
+---
+
+# 8.2 Organização da Cozinha
+
+## Área de Produção
+
+Dividir a cozinha em setores:
+
+### 1. Área de Armazenamento
+
+Responsável:
+
+- Massas
+- Carnes
+- Queijos
+- Embalagens
+- Bebidas
+
+
+Organização:
+
+Sistema PEPS:
+
+"Primeiro que entra, primeiro que sai"
+
+---
+
+### 2. Área de Pré-preparo
+
+Responsável:
+
+- Desfiar frango
+- Preparar carne de panela
+- Porcionar ingredientes
+- Preparar adicionais
+
+
+---
+
+### 3. Área de Montagem
+
+Deve conter:
+
+- Massas disponíveis
+- Recheios organizados
+- Balança
+- Utensílios
+
+
+---
+
+### 4. Área de Fritura
+
+Equipamentos:
+
+- Fritadeira ou tacho
+- Escumadeira
+- Termômetro
+- Recipiente para descarte
+
+
+---
+
+### 5. Área de Expedição
+
+Local para:
+
+- Pedidos prontos
+- Embalagens
+- Bebidas
+- Conferência
+
+
+---
+
+# 8.3 Rotina Diária
+
+## Antes da Abertura
+
+Checklist:
+
+☐ Conferir estoque
+
+☐ Preparar recheios
+
+☐ Organizar bancada
+
+☐ Separar embalagens
+
+☐ Testar equipamentos
+
+☐ Conferir óleo
+
+
+---
+
+## Durante o Funcionamento
+
+Controle:
+
+- Tempo dos pedidos
+- Produtos mais vendidos
+- Falta de ingredientes
+- Reclamações
+
+
+Registrar:
+
+- Horário de pico
+- Quantidade de pedidos
+- Produtos vendidos
+
+
+---
+
+## Após Encerramento
+
+Checklist:
+
+☐ Limpeza da cozinha
+
+☐ Higienização dos equipamentos
+
+☐ Armazenamento dos ingredientes
+
+☐ Controle de estoque
+
+☐ Registro das vendas do dia
+
+
+---
+
+# 8.4 Controle de Estoque
+
+## Estoque mínimo recomendado
+
+Manter segurança para:
+
+- 3 dias de operação
+
+
+Principais controles:
+
+| Produto | Controle |
+|---|---|
+| Massa pastel | Quantidade de unidades |
+| Mussarela | Kg disponível |
+| Frango | Kg disponível |
+| Carne | Kg disponível |
+| Catupiry | Kg disponível |
+| Embalagens | Unidades |
+
+---
+
+# 8.5 Padronização dos Produtos
+
+Cada produto deverá possuir uma ficha técnica contendo:
+
+- Nome do produto
+- Ingredientes
+- Quantidade de cada ingrediente
+- Custo de produção
+- Preço de venda
+- Margem de lucro
+- Foto padrão
+
+
+Objetivos:
+
+- Manter qualidade
+- Facilitar treinamento
+- Controlar custos
+- Evitar desperdício
+
+
+---
+
+# 8.6 Indicadores Operacionais
+
+Acompanhar semanalmente:
+
+| Indicador | Meta |
+|---|---|
+| Tempo médio de preparo | Até 20 minutos |
+| Erros nos pedidos | Menor que 2% |
+| Desperdício | Menor que 5% |
+| Avaliação dos clientes | Acima de 4.8 |
+| Custo dos produtos | Controlado por ficha técnica |
+
+---
+
+# 8.7 Evolução da Operação
+
+Próximas melhorias:
+
+- Implantar sistema de pedidos integrado
+- Criar etiquetas automáticas
+- Criar controle digital de estoque
+- Criar painel de produção
+- Criar treinamento padrão para novos funcionários
+
