@@ -549,3 +549,317 @@ Próximas melhorias:
 - Criar painel de produção
 - Criar treinamento padrão para novos funcionários
 
+  # 9. Fichas Técnicas dos Produtos e Formação de Preço
+
+## Objetivo
+
+Criar um padrão de produção onde cada produto tenha seu custo conhecido, permitindo:
+
+- Definir preços corretamente
+- Garantir margem de lucro
+- Controlar desperdícios
+- Identificar produtos mais rentáveis
+- Planejar promoções sem prejuízo
+
+---
+
+# 9.1 Estrutura da Ficha Técnica
+
+Cada produto deverá possuir:
+
+## Informações básicas
+
+- Nome do produto
+- Categoria
+- Código interno
+- Foto padrão
+- Descrição comercial
+
+
+## Composição
+
+Lista de ingredientes:
+
+- Massa
+- Proteína principal
+- Queijos
+- Complementos
+- Temperos
+- Embalagem
+
+
+## Controle de produção
+
+Informações:
+
+- Peso padrão do pastel
+- Quantidade de recheio
+- Tempo médio de preparo
+- Forma de montagem
+
+
+## Controle financeiro
+
+Registrar:
+
+- Custo dos ingredientes
+- Custo da embalagem
+- Custo operacional estimado
+- Custo total
+- Preço de venda
+- Margem de lucro
+
+---
+
+# 9.2 Padrão de Porcionamento
+
+Todos os pastéis devem seguir um padrão:
+
+## Massa
+
+Quantidade:
+
+- 1 unidade de massa por pastel
+
+
+## Recheio
+
+Padrão inicial:
+
+- 120g de recheio total
+
+
+Divisão sugerida:
+
+### Pastéis tradicionais
+
+Exemplo:
+
+- 80g ingrediente principal
+- 40g complementos
+
+
+### Pastéis especiais
+
+Exemplo:
+
+- 100g ingrediente premium
+- 20g complementos
+
+
+Objetivo:
+
+Garantir que todos os produtos tenham:
+
+- Mesmo sabor
+- Mesmo custo
+- Mesmo padrão visual
+
+---
+
+# 9.3 Base de Custos dos Ingredientes
+
+Valores utilizados para cálculo:
+
+| Ingrediente | Valor |
+|---|---:|
+| Queijo Mussarela | R$ 38,00/kg |
+| Presunto | R$ 30,00/kg |
+| Massa Pastel | R$ 21,00 / pacote (20 unidades) |
+| Carne Moída | R$ 34,00/kg |
+| Carne de Sol | R$ 50,00/kg |
+| Carne de Panela | R$ 38,00/kg |
+| Frango | R$ 20,00/kg |
+| Catupiry | R$ 40,00/kg |
+| Calabresa | R$ 30,00/kg |
+
+
+---
+
+# 9.4 Cálculo do Custo do Pastel
+
+Fórmula:
+
+Exemplo:
+
+Pastel de Frango com Catupiry
+
+Massa:
+
+R$ 21,00 ÷ 20 unidades
+
+= R$ 1,05
+
+
+Frango:
+
+100g utilizados
+
+R$ 20,00/kg
+
+= R$ 2,00
+
+
+Catupiry:
+
+30g utilizados
+
+R$ 40,00/kg
+
+= R$ 1,20
+
+
+Embalagem:
+
+Estimativa:
+
+R$ 0,50
+
+
+Custo aproximado:
+
+R$ 4,75
+
+
+---
+
+# 9.5 Formação do Preço de Venda
+
+Considerando:
+
+- Taxa média iFood: 25%
+- Custos operacionais
+- Margem desejada
+
+
+Modelo:
+Preço de venda =
+Custo do produto ÷ 0,50
+
+
+Exemplo:
+
+Custo:
+
+R$ 4,75
+
+
+Preço sugerido:
+
+R$ 9,50
+
+
+Porém, considerando:
+
+- Taxa iFood
+- Mão de obra
+- Energia
+- Gás
+- Desperdício
+- Lucro
+
+O preço comercial recomendado deve ser ajustado.
+
+---
+
+# 9.6 Estratégia de Precificação
+
+Dividir produtos em categorias:
+
+## Linha Econômica
+
+Objetivo:
+
+Atrair novos clientes.
+
+Exemplos:
+
+- Queijo
+- Frango
+- Carne
+
+Margem:
+
+Menor, porém com alto giro.
+
+
+---
+
+## Linha Tradicional
+
+Objetivo:
+
+Maior volume de vendas.
+
+Exemplos:
+
+- Frango com Catupiry
+- Carne com Queijo
+- Calabresa com Queijo
+
+
+---
+
+## Linha Premium
+
+Objetivo:
+
+Aumentar ticket médio.
+
+Exemplos:
+
+- Carne de Sol
+- Carne de Panela Especial
+- Combinações exclusivas
+
+
+---
+
+# 9.7 Produtos Campeões
+
+Acompanhar:
+
+- Quantidade vendida
+- Margem gerada
+- Avaliações
+- Recompra
+
+
+Classificação:
+
+## Produto Estrela
+
+Alta venda + alta margem
+
+Aumentar divulgação.
+
+
+## Produto Oportunidade
+
+Baixa venda + alta margem
+
+Criar promoções.
+
+
+## Produto Problema
+
+Baixa venda + baixa margem
+
+Reavaliar ou retirar.
+
+
+---
+
+# 9.8 Próxima Etapa
+
+Criar uma planilha/sistema contendo:
+
+- Cadastro de produtos
+- Ingredientes
+- Custos atualizados
+- Formação automática de preço
+- Margem de lucro
+- Ranking de vendas
+- Controle de estoque
+
+
