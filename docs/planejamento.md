@@ -862,4 +862,301 @@ Criar uma planilha/sistema contendo:
 - Ranking de vendas
 - Controle de estoque
 
+# 10. Sistema de Gestão da Benditta Pastelaria
+
+## Objetivo
+
+Criar uma plataforma de controle interno para gerenciar todas as áreas da operação:
+
+- Produtos
+- Ingredientes
+- Estoque
+- Custos
+- Pedidos
+- Vendas
+- Clientes
+- Indicadores financeiros
+
+O sistema deverá permitir que a administração tome decisões baseadas em dados reais da operação.
+
+---
+
+# 10.1 Módulos do Sistema
+
+## Módulo 1 - Cadastro de Produtos
+
+Objetivo:
+
+Centralizar todas as informações dos produtos vendidos.
+
+Cadastro:
+
+- Nome do produto
+- Categoria
+- Foto
+- Descrição
+- Preço de venda
+- Custo de produção
+- Margem de lucro
+- Status (ativo/inativo)
+
+Exemplo:
+Produto:
+Pastel Carne de Panela Especial
+
+Categoria:
+Pastéis Premium
+
+Custo:
+R$ 6,20
+
+Preço Venda:
+R$ 16,90
+
+Margem:
+Controle automático
+
+
+---
+
+# 10.2 Módulo de Fichas Técnicas
+
+Cada produto terá sua composição cadastrada.
+
+Exemplo:
+
+## Pastel Frango com Catupiry
+
+Ingredientes:
+
+| Item | Quantidade |
+|---|---:|
+| Massa | 1 unidade |
+| Frango | 100g |
+| Catupiry | 30g |
+| Temperos | 5g |
+| Embalagem | 1 unidade |
+
+O sistema calculará automaticamente:
+
+- Custo total
+- Custo por unidade
+- Margem de lucro
+
+---
+
+# 10.3 Módulo de Estoque
+
+Objetivo:
+
+Evitar falta de produtos e reduzir desperdício.
+
+Controle:
+
+## Entradas
+
+Exemplos:
+
+- Compra de queijo
+- Compra de carnes
+- Compra de embalagens
+
+
+## Saídas
+
+Automáticas através das vendas.
+
+Exemplo:
+
+Venda:
+
+10 pastéis de frango
+
+Sistema baixa:
+
+- 10 massas
+- 1kg de frango
+- 300g de catupiry
+- 10 embalagens
+
+
+---
+
+# 10.4 Controle de Compras
+
+Cadastro de fornecedores:
+
+Informações:
+
+- Nome fornecedor
+- Produto fornecido
+- Último preço pago
+- Data da compra
+- Histórico de valores
+
+
+Objetivos:
+
+- Comparar preços
+- Identificar aumento de custos
+- Planejar compras
+
+
+---
+
+# 10.5 Gestão de Pedidos
+
+Controle dos pedidos:
+
+Status:
+Novo Pedido
+↓
+Em Produção
+↓
+Aguardando Entrega
+↓
+Finalizado
+
+
+
+Informações:
+
+- Número do pedido
+- Cliente
+- Produtos
+- Valor total
+- Forma de pagamento
+- Horário
+- Canal de venda
+
+
+---
+
+# 10.6 Gestão de Clientes
+
+Criar histórico de clientes:
+
+Informações:
+
+- Nome
+- Telefone
+- Bairro
+- Quantidade de pedidos
+- Última compra
+- Produto favorito
+
+
+Objetivo:
+
+Criar ações de fidelização.
+
+Exemplos:
+
+- Cliente que compra toda semana recebe oferta
+- Cliente parado recebe cupom
+- Divulgação de novos produtos
+
+
+---
+
+# 10.7 Dashboard Gerencial
+
+Painel principal:
+
+## Vendas
+
+Exibir:
+
+- Faturamento diário
+- Faturamento semanal
+- Faturamento mensal
+- Quantidade de pedidos
+- Ticket médio
+
+
+## Produtos
+
+Mostrar:
+
+- Mais vendidos
+- Maior lucro
+- Menor saída
+
+
+## Operação
+
+Indicadores:
+
+- Tempo médio de preparo
+- Cancelamentos
+- Avaliação dos clientes
+
+
+---
+
+# 10.8 Relatórios
+
+Relatórios disponíveis:
+
+## Relatório Financeiro
+
+- Vendas
+- Custos
+- Lucro estimado
+- Margem
+
+
+## Relatório de Estoque
+
+- Produtos disponíveis
+- Consumo médio
+- Necessidade de compra
+
+
+## Relatório de Produtos
+
+- Ranking de vendas
+- Produtos mais rentáveis
+- Produtos sem desempenho
+
+
+---
+
+# 10.9 Evolução Tecnológica
+
+Fases de desenvolvimento:
+
+## Fase 1 - Controle Básico
+
+- Cadastro de produtos
+- Custos
+- Estoque simples
+
+
+## Fase 2 - Gestão Completa
+
+- Pedidos
+- Clientes
+- Relatórios
+- Dashboard
+
+
+## Fase 3 - Automação
+
+- Integração iFood
+- Alertas de estoque
+- Aplicativo mobile
+- Inteligência de vendas
+
+
+---
+
+# 10.10 Visão Futura
+
+O sistema deverá evoluir para uma plataforma própria da Benditta Pastelaria, permitindo:
+
+- Controle completo da operação
+- Redução de custos
+- Aumento da lucratividade
+- Expansão para novas unidades
 
